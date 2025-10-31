@@ -39,7 +39,7 @@ cryptopsych/
 
 Click below to watch CryptoPsych in action:
 
-[![Watch the Demo](https://youtu.be/gNri1cPFADs)
+https://youtu.be/gNri1cPFADs
 
 
 ---
