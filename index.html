@@ -642,7 +642,7 @@
         }
 
         async function callDobby(messages) {
-            const response = await fetch("http://localhost:5000/api/fireworks", {
+            const response = await fetch("https://cryptopsych-backend.onrender.com/api/fireworks", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ message: messages[messages.length - 1].content })
