@@ -34,6 +34,9 @@ cryptopsych/
 ├── README.md
 └── .gitignore
 ```
+## Web app link 
+
+https://crypto-psych-ai-3b1b.onrender.com
 
 ## 🎥 Demo Video
 
